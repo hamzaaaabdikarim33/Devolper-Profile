@@ -12,7 +12,7 @@
     "fs": "^0.0.1-security",
     "global-agent": "^2.1.8",
     "globalthis": "^1.0.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "http-cache-semantics": "^4.0.4",
     "inquirer": "^7.0.4",
     "matcher": "^2.1.0",
